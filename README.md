@@ -1,17 +1,15 @@
-![Repo-Image](https://druffko.gg/github-images/aptivydroid.png)
-
 <div align="center">
 
-![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/druffko/aptivydroid?include_prereleases)
+![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/massimo-rnd/aptivydroid?include_prereleases)
 
 ![.NET Version](https://img.shields.io/badge/Android-7.0+-brightgreen)
-![GitHub last commit](https://img.shields.io/github/last-commit/druffko/aptivydroid)
+![GitHub last commit](https://img.shields.io/github/last-commit/massimo-rnd/aptivydroid)
 
   <br>
 
-  ![GitHub All Releases](https://img.shields.io/github/downloads/druffko/aptivydroid/total)
-  ![GitHub closed issues](https://img.shields.io/github/issues-closed/druffko/aptivydroid)
-  ![GitHub issues](https://img.shields.io/github/issues/druffko/aptivydroid)
+  ![GitHub All Releases](https://img.shields.io/github/downloads/massimo-rnd/aptivydroid/total)
+  ![GitHub closed issues](https://img.shields.io/github/issues-closed/massimo-rnd/aptivydroid)
+  ![GitHub issues](https://img.shields.io/github/issues/massimo-rnd/aptivydroid)
   
   <h1>Aptivydroid</h1>
   <p>
@@ -83,8 +81,8 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-- **druffko** - [@druffko](https://twitter.com/druffko) - hi@druffko.gg
-- **Project Link** - https://github.com/druffko/aptivydroid
+- **massimo-rnd** - [@massimo_rnd](https://x.com/massimo_rnd) - hi@massimo.gg
+- **Project Link** - https://github.com/massimo-rnd/aptivydroid
 
 Feel free to reach out if you have any questions or suggestions!
 
